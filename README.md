@@ -82,23 +82,8 @@ Edit
     }
 }
 
-???? How to Test the API (Postman)
-Install Postman or use the web version.
 
 Start the server:
-
-bash
-Copy
-Edit
-node index.js
-In Postman:
-
-a. Test Send Notification:
-Method: POST
-
-URL: http://localhost:3000/notifications
-
-Headers: Content-Type: application/json
 
 Body (JSON):
 
